@@ -1,4 +1,4 @@
- FROM ubuntu:latest
+FROM ubuntu:latest
 
 LABEL maintainer="m24te28"
 
